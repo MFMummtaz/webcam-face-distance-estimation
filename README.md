@@ -30,7 +30,7 @@ Ensure your project directory is organized as follows:
 ```text
 webcam-distance-meter/
 │
-├── haarcascade_frontalface_default.xml   # OpenCV's face detection model
+├── haarcascade_frontalface_default.xml   # OpenCV's face detection model (download from here https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 ├── distance_estimator.py                # Main application script
 ├── requirements.txt                     # Project dependencies
 └── README.md                            # Project documentation
